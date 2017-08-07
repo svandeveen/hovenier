@@ -1,0 +1,14 @@
+{
+  "name": "hovenier",
+  "version": "1.0.0",
+  "description": "WebApp om een tuin te beheren",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sean van de Veen",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
