@@ -1,0 +1,18 @@
+{
+  "name": "hovenier",
+  "version": "1.0.0",
+  "description": "WebApp om een tuin te beheren",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sean van de Veen",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
+}
